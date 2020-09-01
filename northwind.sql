@@ -15,9 +15,13 @@ begin;
 
 
 DROP TABLE IF EXISTS CustomerCustomerDemo;
+DROP TABLE IF EXISTS Customer_Customer_Demo;
 DROP TABLE IF EXISTS CustomerDemographics;
+DROP TABLE IF EXISTS Customer_Demographics;
 DROP TABLE IF EXISTS EmployeeTerritories;
+DROP TABLE IF EXISTS Employee_Territories;
 DROP TABLE IF EXISTS OrderDetails;
+DROP TABLE IF EXISTS Order_Details;
 DROP TABLE IF EXISTS Orders;
 DROP TABLE IF EXISTS Customers;
 DROP TABLE IF EXISTS Products;
